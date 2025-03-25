@@ -16,15 +16,6 @@ This repository includes various **MQL5 scripts and indicators** for **MetaTrade
 3. Paste the downloaded files into the respective folder.  
 4. Restart MetaTrader 5 or refresh the **Navigator** panel.  
 
-## 📂 Repository Structure  
-
-```
-MQL5-Scripts-Indicators/
-│── Indicators/       # Custom indicators for technical analysis  
-│── Scripts/          # Automated scripts for trading and analysis  
-│── README.md         # Project documentation  
-```
-
 ## 📝 License  
 
 This repository is open-source. You can modify and use the scripts for personal or commercial trading.  
